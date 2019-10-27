@@ -44,3 +44,4 @@ class PlayerAbstract:
     def select_target(self):
         pass
 
+    # TODO: Create more abstract methods as needed

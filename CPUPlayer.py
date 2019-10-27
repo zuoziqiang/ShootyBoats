@@ -131,7 +131,7 @@ class CPUPlayer(PlayerAbstract):
         for future selection choices.
 
         This is of course not guaranteed to ignore that specific ship,
-        but it does make the AI guess more intelligently
+        but it does make the AI guess more intelligently.
 
         Precondition: This method is called immediately after a
                       ship of type <ship> has been sunk
